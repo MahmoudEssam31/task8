@@ -1,0 +1,269 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a  {
+    text-decoration: none;
+}
+h3 {
+    font-size: 1.8em;
+}
+
+h4 {
+    font-family: "Roboto", serif;
+    background-color: rgb(236, 237, 253);
+    color: rgb(65, 84, 241);
+}
+.services h2 {
+    margin-bottom: 2em;
+}
+.icon {
+    width: 5.3em;
+    height: 5.3em;
+    /* margin:auto; */
+}
+.Servies_card_1 p {
+    font-size: 1.1em;
+}
+.Servies_card_1 {
+    transition: .5s;
+    border-bottom: 3px solid;
+    height: 100%;
+}
+.Servies_card_1:hover {
+    color: white;
+    background-color: rgb(13, 202, 240) !important;
+}
+.Servies_card_1:hover .icon {
+    background-color: white !important;    
+}
+.Servies_card_1:hover span, i {
+    color: white; 
+}
+.Servies_card_1 i {
+    color: rgb(13, 202, 240); 
+}
+.Servies_card_1:hover i {
+    color: white; 
+}
+
+.Servies_card_1:hover span {
+    color: white;   
+} 
+.Servies_card_1:hover .linkabout i {
+    color: white; 
+} 
+.Servies_card_2 {
+    transition: .5s;
+    border-bottom: 3px solid rgb(253, 126, 20);
+    height: 100%;
+}
+.Servies_card_2 .icon {
+    background-color: rgba(253, 126, 20, 0.1)!important;
+}
+.Servies_card_2 svg {
+    color: rgb(253, 126, 20);
+}
+.Servies_card_2 p {
+    font-size: 1.1em;
+}
+
+.Servies_card_2:hover {
+    color: white;
+    background-color: rgb(253, 126, 20) !important;
+}
+.Servies_card_2 a {
+    color: rgb(253, 126, 20);
+ }
+.Servies_card_2:hover .icon {
+    background-color: white !important;    
+}
+.Servies_card_2:hover span, i {
+    color: white; 
+}
+.Servies_card_2 i {
+    color: rgb(253, 126, 20); 
+}
+.Servies_card_2:hover i {
+    color: white; 
+}
+
+.Servies_card_2:hover span {
+    color: white;   
+} 
+.Servies_card_2:hover .linkabout i {
+    color: white; 
+} 
+.Servies_card_3 {
+    transition: .5s;
+    border-bottom: 3px solid ;
+    height: 100%;
+}
+.Servies_card_3 .icon {
+    /* background-color: rgba(253, 126, 20, 0.1)!important; */
+}
+.Servies_card_3 svg {
+    /* color: rgb(253, 126, 20); */
+}
+.Servies_card_3 p {
+    font-size: 1.1em;
+}
+
+.Servies_card_3:hover {
+    color: white;
+    background-color: rgb(32, 201, 151) !important;
+}
+.Servies_card_3 a {
+    color: rgb(32, 201, 151);
+ }
+.Servies_card_3:hover .icon {
+    background-color: white !important;    
+}
+.Servies_card_3:hover span, i {
+    color: white; 
+}
+.Servies_card_3 i {
+    color: rgb(32, 201, 151); 
+}
+.Servies_card_3:hover i {
+    color: white; 
+}
+
+.Servies_card_3:hover span {
+    color: white;   
+} 
+.Servies_card_3:hover .linkabout i {
+    color: white; 
+} 
+
+/* Fourth */
+
+.Servies_card_4 {
+    transition: .5s;
+    border-bottom: 3px solid ;
+    height: 100%;
+}
+.Servies_card_4 .icon {
+    /* background-color: rgba(253, 126, 20, 0.1)!important; */
+}
+.Servies_card_4 svg {
+    /* color: rgb(253, 126, 20); */
+}
+.Servies_card_4 p {
+    font-size: 1.1em;
+}
+
+.Servies_card_4:hover {
+    color: white;
+    background-color: rgb(201, 32, 32) !important;
+}
+.Servies_card_4 a {
+    color: rgb(201, 32, 32) ;
+ }
+.Servies_card_4:hover .icon {
+    background-color: white !important;    
+}
+.Servies_card_4:hover span, i {
+    color: white; 
+}
+.Servies_card_4 i {
+    color: rgb(201, 32, 32) ; 
+}
+.Servies_card_4:hover i {
+    color: white; 
+}
+
+.Servies_card_4:hover span {
+    color: white;   
+} 
+.Servies_card_4:hover .linkabout i {
+    color: white; 
+} 
+/* Fifth */
+
+.Servies_card_5 {
+    transition: .5s;
+    border-bottom: 3px solid rgb(102, 16, 242) ;
+    height: 100%;
+}
+.Servies_card_5 .icon {
+    background-color: rgba(102, 16, 242, 0.1)!important;
+}
+.Servies_card_5 svg {
+    color: rgb(102, 16, 242);
+}
+.Servies_card_5 p {
+    font-size: 1.1em;
+}
+
+.Servies_card_5:hover {
+    color: white;
+    background-color: rgb(102, 16, 242) !important;
+}
+.Servies_card_5 a {
+    color: rgb(102, 16, 242) ;
+ }
+.Servies_card_5:hover .icon {
+    background-color: white !important;    
+}
+.Servies_card_5:hover span, i {
+    color: white; 
+}
+.Servies_card_5 i {
+    color: rgb(102, 16, 242) ; 
+}
+.Servies_card_5:hover i {
+    color: white; 
+}
+
+.Servies_card_5:hover span {
+    color: white;   
+} 
+.Servies_card_5:hover .linkabout i {
+    color: white; 
+} 
+
+/* sixth */
+
+.Servies_card_6 {
+    transition: .5s;
+    border-bottom: 3px solid rgb(243, 38, 140) ;
+    height: 100%;
+}
+.Servies_card_6 .icon {
+    background-color: rgba(243, 38, 140, 0.1)!important;
+}
+.Servies_card_6 svg {
+    color: rgb(243, 38, 140);
+}
+.Servies_card_6 p {
+    font-size: 1.1em;
+}
+
+.Servies_card_6:hover {
+    color: white;
+    background-color: rgb(243, 38, 140) !important;
+}
+.Servies_card_6 a {
+    color: rgb(243, 38, 140) ;
+ }
+.Servies_card_6:hover .icon {
+    background-color: white !important;    
+}
+.Servies_card_6:hover span, i {
+    color: white; 
+}
+.Servies_card_6 i {
+    color: rgb(243, 38, 140) ; 
+}
+.Servies_card_6:hover i {
+    color: white; 
+}
+
+.Servies_card_6:hover span {
+    color: white;   
+} 
+.Servies_card_6:hover .linkabout i {
+    color: white; 
+} 
